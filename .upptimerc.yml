@@ -19,8 +19,8 @@ status-website:
   # baseUrl: /your-repo-name
   logoUrl: https://upload.wikimedia.org/wikipedia/en/thumb/9/9a/CUET_Vector_ogo.svg/170px-CUET_Vector_ogo.svg.png
   name: CONNECT🤟|Status Page
-  introTitle: "A website for monitoring **CUET CONNECT**"
-  introMessage: Thanks to all contributors of @upptimeme/upptime)
+  introTitle: "A website for monitoring **CUET CONNECT** traffic"
+  introMessage: Thanks to all contributors of @upptime/upptime
   navbar:
     - title: CUET Connect💐
       href: https://cuetconnect.org/
