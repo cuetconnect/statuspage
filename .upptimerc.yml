@@ -24,10 +24,10 @@ status-website:
   introTitle: "A website for monitoring **CUET CONNECT** traffic"
   introMessage: Thanks to all contributors of @upptime/upptime
   navbar:
-    - title: CUET Connect💐
+    - title: CUET
       href: https://cuetconnect.org/
-    - title: GitHub
-      href: https://github.com/$OWNER/$REPO
+    - title: Status(BackUp)
+      href: https://statuspage.cuetconnect.org/
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
