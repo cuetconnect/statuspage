@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 139,
-    "timeDay": 226,
-    "timeWeek": 113,
-    "timeMonth": 139,
-    "timeYear": 139,
+    "time": 143,
+    "timeDay": 219,
+    "timeWeek": 130,
+    "timeMonth": 143,
+    "timeYear": 143,
     "dailyMinutesDown": {}
   },
   {
@@ -23,18 +23,19 @@
     "icon": "https://favicons.githubusercontent.com/forum.cuetconnect.org",
     "slug": "cuetconnect-forum-site",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1079,
-    "timeDay": 717,
-    "timeWeek": 900,
-    "timeMonth": 1079,
-    "timeYear": 1079,
+    "uptime": "99.26%",
+    "uptimeDay": "85.73%",
+    "uptimeWeek": "97.96%",
+    "uptimeMonth": "99.26%",
+    "uptimeYear": "99.26%",
+    "time": 1057,
+    "timeDay": 546,
+    "timeWeek": 858,
+    "timeMonth": 1057,
+    "timeYear": 1057,
     "dailyMinutesDown": {
-      "2022-03-17": 0
+      "2022-03-18": 82,
+      "2022-03-17": 123
     }
   },
   {
@@ -48,11 +49,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 88,
-    "timeDay": 63,
-    "timeWeek": 88,
-    "timeMonth": 88,
-    "timeYear": 88,
+    "time": 89,
+    "timeDay": 101,
+    "timeWeek": 87,
+    "timeMonth": 89,
+    "timeYear": 89,
     "dailyMinutesDown": {}
   },
   {
@@ -66,11 +67,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 172,
-    "timeDay": 197,
-    "timeWeek": 205,
-    "timeMonth": 172,
-    "timeYear": 172,
+    "time": 173,
+    "timeDay": 182,
+    "timeWeek": 222,
+    "timeMonth": 173,
+    "timeYear": 173,
     "dailyMinutesDown": {}
   },
   {
@@ -84,11 +85,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 923,
-    "timeDay": 1038,
-    "timeWeek": 842,
-    "timeMonth": 923,
-    "timeYear": 923,
+    "time": 928,
+    "timeDay": 1035,
+    "timeWeek": 827,
+    "timeMonth": 928,
+    "timeYear": 928,
     "dailyMinutesDown": {}
   }
 ]
