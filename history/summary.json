@@ -87,19 +87,19 @@
     "url": "https://shop.cuetconnect.org/",
     "icon": "https://favicons.githubusercontent.com/shop.cuetconnect.org",
     "slug": "cuetconnect-shop-site",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1014,
-    "timeDay": 803,
-    "timeWeek": 1101,
-    "timeMonth": 1056,
-    "timeYear": 1014,
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "99.18%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.98%",
+    "time": 1004,
+    "timeDay": 730,
+    "timeWeek": 1044,
+    "timeMonth": 1042,
+    "timeYear": 1004,
     "dailyMinutesDown": {
-      "2022-04-07": 0
+      "2022-04-07": 12
     }
   }
 ]
