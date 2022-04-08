@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.97%",
-    "time": 134,
-    "timeDay": 163,
-    "timeWeek": 129,
-    "timeMonth": 124,
-    "timeYear": 134,
+    "time": 165,
+    "timeDay": 1499,
+    "timeWeek": 337,
+    "timeMonth": 168,
+    "timeYear": 165,
     "dailyMinutesDown": {
       "2022-03-18": 18
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "98.86%",
     "uptimeYear": "99.14%",
-    "time": 981,
-    "timeDay": 674,
-    "timeWeek": 803,
-    "timeMonth": 896,
-    "timeYear": 981,
+    "time": 978,
+    "timeDay": 844,
+    "timeWeek": 821,
+    "timeMonth": 898,
+    "timeYear": 978,
     "dailyMinutesDown": {
       "2022-03-18": 375,
       "2022-03-17": 123
@@ -46,15 +46,15 @@
     "icon": "https://favicons.githubusercontent.com/admission.cuetconnect.org",
     "slug": "cuetconnect-admission-site",
     "status": "up",
-    "uptime": "97.47%",
+    "uptime": "97.48%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "96.67%",
-    "uptimeYear": "97.47%",
+    "uptimeYear": "97.48%",
     "time": 111,
-    "timeDay": 63,
-    "timeWeek": 122,
-    "timeMonth": 121,
+    "timeDay": 108,
+    "timeWeek": 111,
+    "timeMonth": 123,
     "timeYear": 111,
     "dailyMinutesDown": {
       "2022-03-21": 411,
@@ -73,11 +73,11 @@
     "uptimeWeek": "99.58%",
     "uptimeMonth": "99.90%",
     "uptimeYear": "99.93%",
-    "time": 246,
-    "timeDay": 122,
-    "timeWeek": 206,
-    "timeMonth": 283,
-    "timeYear": 246,
+    "time": 247,
+    "timeDay": 288,
+    "timeWeek": 231,
+    "timeMonth": 287,
+    "timeYear": 247,
     "dailyMinutesDown": {
       "2022-04-05": 43
     }
@@ -93,11 +93,11 @@
     "uptimeWeek": "99.88%",
     "uptimeMonth": "99.97%",
     "uptimeYear": "99.98%",
-    "time": 1004,
-    "timeDay": 730,
-    "timeWeek": 1044,
-    "timeMonth": 1042,
-    "timeYear": 1004,
+    "time": 1009,
+    "timeDay": 658,
+    "timeWeek": 1021,
+    "timeMonth": 1034,
+    "timeYear": 1009,
     "dailyMinutesDown": {
       "2022-04-07": 12
     }
