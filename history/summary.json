@@ -46,9 +46,9 @@
     "url": "https://admission.cuetconnect.org/",
     "icon": "https://favicons.githubusercontent.com/admission.cuetconnect.org",
     "slug": "cuetconnect-admission-site",
-    "status": "up",
+    "status": "down",
     "uptime": "98.23%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.23%",
@@ -58,6 +58,7 @@
     "timeMonth": 295,
     "timeYear": 202,
     "dailyMinutesDown": {
+      "2022-04-25": 0,
       "2022-03-21": 411,
       "2022-03-20": 934,
       "2022-03-18": 112
