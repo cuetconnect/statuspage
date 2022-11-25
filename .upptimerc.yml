@@ -5,14 +5,11 @@ repo: cuetconnect-statuspage # The name of this repository
 sites:
   - name: CUETCONNECT(MainSite)
     url: https://cuetconnect.org/
-  - name: CUETCONNECT(ForumSite)
-    url: https://forum.cuetconnect.org/
   - name: CUETCONNECT(AdmissionSite)
     url: https://admission.cuetconnect.org/
   - name: CUETCONNECT(NoticesSite)
     url: https://notices.cuetconnect.org/
-  - name: CUETCONNECT(ShopSite)
-    url: https://shop.cuetconnect.org/
+
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
