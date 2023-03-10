@@ -1,7 +1,7 @@
 url: https://admission.cuetconnect.org/
-status: down
-code: 502
-responseTime: 1760
-lastUpdated: 2023-03-10T22:52:17.271Z
+status: up
+code: 200
+responseTime: 889
+lastUpdated: 2023-03-10T23:01:52.354Z
 startTime: Sat Feb 26 2022 19:59:07 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
