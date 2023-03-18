@@ -5,10 +5,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/cuetconnect.org.ico",
     "slug": "cuetconnect-main-site",
     "status": "up",
-    "uptime": "93.02%",
-    "uptimeDay": "92.98%",
-    "uptimeWeek": "93.96%",
-    "uptimeMonth": "71.21%",
+    "uptime": "93.03%",
+    "uptimeDay": "93.60%",
+    "uptimeWeek": "94.05%",
+    "uptimeMonth": "71.23%",
     "uptimeYear": "92.66%",
     "time": 571,
     "timeDay": 1586,
@@ -16,7 +16,7 @@
     "timeMonth": 1135,
     "timeYear": 589,
     "dailyMinutesDown": {
-      "2023-03-17": 101,
+      "2023-03-17": 92,
       "2023-03-16": 74,
       "2023-03-15": 72,
       "2023-03-14": 123,
@@ -52,8 +52,7 @@
       "2022-10-23": 1440,
       "2022-10-22": 1440,
       "2022-10-21": 898,
-      "2022-09-14": 16,
-      "2022-03-18": 18
+      "2022-09-14": 16
     }
   },
   {
@@ -63,17 +62,17 @@
     "slug": "cuetconnect-admission-site",
     "status": "up",
     "uptime": "97.44%",
-    "uptimeDay": "88.49%",
-    "uptimeWeek": "95.10%",
-    "uptimeMonth": "71.12%",
-    "uptimeYear": "97.30%",
+    "uptimeDay": "89.11%",
+    "uptimeWeek": "95.19%",
+    "uptimeMonth": "71.14%",
+    "uptimeYear": "97.31%",
     "time": 953,
     "timeDay": 3128,
     "timeWeek": 2417,
     "timeMonth": 2541,
     "timeYear": 990,
     "dailyMinutesDown": {
-      "2023-03-17": 166,
+      "2023-03-17": 157,
       "2023-03-16": 107,
       "2023-03-15": 35,
       "2023-03-14": 16,
@@ -93,8 +92,7 @@
       "2023-01-03": 23,
       "2022-04-25": 33,
       "2022-03-21": 411,
-      "2022-03-20": 934,
-      "2022-03-18": 112
+      "2022-03-20": 934
     }
   },
   {
@@ -103,10 +101,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/notices.cuetconnect.org.ico",
     "slug": "cuetconnect-notices-site",
     "status": "up",
-    "uptime": "97.70%",
-    "uptimeDay": "91.83%",
-    "uptimeWeek": "95.53%",
-    "uptimeMonth": "71.48%",
+    "uptime": "97.71%",
+    "uptimeDay": "92.45%",
+    "uptimeWeek": "95.62%",
+    "uptimeMonth": "71.50%",
     "uptimeYear": "97.58%",
     "time": 815,
     "timeDay": 2575,
@@ -114,7 +112,7 @@
     "timeMonth": 1763,
     "timeYear": 841,
     "dailyMinutesDown": {
-      "2023-03-17": 118,
+      "2023-03-17": 109,
       "2023-03-16": 146,
       "2023-03-15": 44,
       "2023-03-13": 41,
