@@ -1,7 +1,7 @@
 url: https://notices.cuetconnect.org/
-status: up
-code: 200
-responseTime: 675
-lastUpdated: 2023-03-26T11:06:28.211Z
+status: down
+code: 502
+responseTime: 1723
+lastUpdated: 2023-03-26T12:33:23.358Z
 startTime: Sat Feb 26 2022 19:59:08 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
