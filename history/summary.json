@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/cuetconnect.org.ico",
     "slug": "cuetconnect-main-site",
     "status": "down",
-    "uptime": "50.34%",
+    "uptime": "50.27%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "0.00%",
-    "uptimeYear": "5.32%",
-    "time": 830,
+    "uptimeMonth": "4.67%",
+    "uptimeYear": "5.05%",
+    "time": 831,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 1052,
+    "timeYear": 1055,
     "dailyMinutesDown": {
-      "2024-02-29": 42,
+      "2024-03-01": 48,
+      "2024-02-29": 1440,
       "2024-02-28": 1440,
       "2024-02-27": 1440,
       "2024-02-26": 1440,
@@ -376,8 +377,7 @@
       "2023-03-06": 1440,
       "2023-03-05": 1440,
       "2023-03-04": 1440,
-      "2023-03-03": 1440,
-      "2023-03-02": 1440
+      "2023-03-03": 1440
     }
   },
   {
@@ -386,18 +386,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/admission.cuetconnect.org.ico",
     "slug": "cuetconnect-admission-site",
     "status": "down",
-    "uptime": "52.67%",
+    "uptime": "52.60%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "0.00%",
-    "uptimeYear": "5.35%",
-    "time": 1473,
+    "uptimeMonth": "4.67%",
+    "uptimeYear": "5.07%",
+    "time": 1475,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 2361,
+    "timeYear": 2370,
     "dailyMinutesDown": {
-      "2024-02-29": 43,
+      "2024-03-01": 48,
+      "2024-02-29": 1440,
       "2024-02-28": 1440,
       "2024-02-27": 1440,
       "2024-02-26": 1440,
@@ -757,8 +758,7 @@
       "2023-03-06": 1440,
       "2023-03-05": 1440,
       "2023-03-04": 1440,
-      "2023-03-03": 1440,
-      "2023-03-02": 1440
+      "2023-03-03": 1440
     }
   },
   {
@@ -767,18 +767,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/notices.cuetconnect.org.ico",
     "slug": "cuetconnect-notices-site",
     "status": "down",
-    "uptime": "52.82%",
+    "uptime": "52.75%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "0.00%",
-    "uptimeYear": "5.40%",
-    "time": 1333,
+    "uptimeMonth": "4.67%",
+    "uptimeYear": "5.12%",
+    "time": 1335,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 1753,
+    "timeYear": 1760,
     "dailyMinutesDown": {
-      "2024-02-29": 43,
+      "2024-03-01": 48,
+      "2024-02-29": 1440,
       "2024-02-28": 1440,
       "2024-02-27": 1440,
       "2024-02-26": 1440,
@@ -1135,8 +1136,7 @@
       "2023-03-06": 1440,
       "2023-03-05": 1440,
       "2023-03-04": 1440,
-      "2023-03-03": 1440,
-      "2023-03-02": 1440
+      "2023-03-03": 1440
     }
   }
 ]
