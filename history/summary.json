@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/cuetconnect.org.ico",
     "slug": "cuetconnect-main-site",
     "status": "down",
-    "uptime": "45.61%",
+    "uptime": "45.55%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
-    "time": 942,
+    "time": 952,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-05-15": 47,
+      "2024-05-16": 47,
+      "2024-05-15": 1440,
       "2024-05-14": 1440,
       "2024-05-13": 1440,
       "2024-05-12": 1440,
@@ -379,8 +380,7 @@
       "2023-05-21": 1440,
       "2023-05-20": 1440,
       "2023-05-19": 1440,
-      "2023-05-18": 1440,
-      "2023-05-17": 1440
+      "2023-05-18": 1440
     }
   },
   {
@@ -389,18 +389,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/admission.cuetconnect.org.ico",
     "slug": "cuetconnect-admission-site",
     "status": "down",
-    "uptime": "47.72%",
+    "uptime": "47.66%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
-    "time": 1853,
+    "time": 1866,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-05-15": 47,
+      "2024-05-16": 48,
+      "2024-05-15": 1440,
       "2024-05-14": 1440,
       "2024-05-13": 1440,
       "2024-05-12": 1440,
@@ -763,8 +764,7 @@
       "2023-05-21": 1440,
       "2023-05-20": 1440,
       "2023-05-19": 1440,
-      "2023-05-18": 1440,
-      "2023-05-17": 1440
+      "2023-05-18": 1440
     }
   },
   {
@@ -773,18 +773,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/notices.cuetconnect.org.ico",
     "slug": "cuetconnect-notices-site",
     "status": "down",
-    "uptime": "47.85%",
+    "uptime": "47.80%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
-    "time": 1474,
+    "time": 1484,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-05-15": 47,
+      "2024-05-16": 48,
+      "2024-05-15": 1440,
       "2024-05-14": 1440,
       "2024-05-13": 1440,
       "2024-05-12": 1440,
@@ -1147,8 +1148,7 @@
       "2023-05-21": 1440,
       "2023-05-20": 1440,
       "2023-05-19": 1440,
-      "2023-05-18": 1440,
-      "2023-05-17": 1440
+      "2023-05-18": 1440
     }
   }
 ]
